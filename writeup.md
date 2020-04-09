@@ -38,13 +38,13 @@ Number of testing examples = 12630
 Image data shape = (32, 32, 3)
 Number of classes = 43
 
-![alt text](./images/imageshow.jpg)
+![alt text](./images/imageshow.JPG)
 
 #### 2. Include an exploratory visualization of the dataset.
 
 Here is an exploratory visualization of the data set. It is a bar chart showing how the data ...
 
-![alt text](./images/visualization.jpg)
+![alt text](./images/visualization.JPG)
 
 ### Design and Test a Model Architecture
 
@@ -92,7 +92,7 @@ I tried a classic version of LeNet-5 with 5 layers. It was working good for my i
 
 #### 1. Choose five German traffic signs found on the web and provide them in the report. For each image, discuss what quality or qualities might be difficult to classify.
 
-Here are five German traffic signs that I found on the web: ![alt text](./images/newimages.jpg)
+Here are five German traffic signs that I found on the web: ![alt text](./images/newimages.JPG)
 
 
 
